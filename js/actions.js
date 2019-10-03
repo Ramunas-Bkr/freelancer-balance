@@ -1,0 +1,1 @@
+renderMy_Table ( `.table-content`, account, months );
